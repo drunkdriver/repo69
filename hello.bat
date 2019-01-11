@@ -1,2 +1,2 @@
 cd \
-echo "RATTED" > hello.txt
+echo "HELLO"
